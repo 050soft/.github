@@ -1,6 +1,6 @@
 # 050soft
 A software organization from Groningen, the Netherlands. 
-We make both open and closed source software projects.
+We make all kinds of (open source) projects.
 
 # Contributing
 tba
